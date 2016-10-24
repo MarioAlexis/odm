@@ -1,0 +1,13 @@
+total 6.1M
+-rw-r--r-- 1 root root 557K Oct 24 14:09 1JI_0076.jpg
+-rw-r--r-- 1 root root 628K Oct 24 14:09 DJI_0062.jpg
+-rw-r--r-- 1 root root 591K Oct 24 14:09 DJI_0063.jpg
+-rw-r--r-- 1 root root 695K Oct 24 14:09 DJI_0068.jpg
+-rw-r--r-- 1 root root 668K Oct 24 14:09 DJI_0070.jpg
+-rw-r--r-- 1 root root 622K Oct 24 14:09 DJI_0074.jpg
+-rw-r--r-- 1 root root 660K Oct 24 14:09 DJI_0080.jpg
+-rw-r--r-- 1 root root 565K Oct 24 14:09 DJI_0083.jpg
+-rw-r--r-- 1 root root 633K Oct 24 14:09 DJI_0104.jpg
+-rw-r--r-- 1 root root 588K Oct 24 14:09 DJI_0106.jpg
+Temps de execution : 35 mins
+Resolution des images : 1200 x 900
