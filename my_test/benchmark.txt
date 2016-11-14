@@ -1,0 +1,6 @@
+Resizing runtime: 1.690066 seconds
+OpenSfM runtime: 159.066338 seconds
+CMVS runtime: 1.407406 seconds
+PMVS runtime: 142.450904 seconds
+Meshing runtime: 41.569701 seconds
+Texturing runtime: 406.91007 seconds
