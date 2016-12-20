@@ -1,8 +1,0 @@
-# For OpenCV compilation
-	-cmake-gui
-
-# For render the mesh provide by ODM
-	-paraview
-
-# For resize the images in test/test_data/images folder provide by ODM
-	-mogrify -path images/ -resize 50% -format jpg images/*.jpg 

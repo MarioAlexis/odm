@@ -1,5 +1,0 @@
-use_exif_size: no
-feature_process_size: 1280
-feature_min_frames: 400
-processes: 1
-matching_gps_neighbors: 8

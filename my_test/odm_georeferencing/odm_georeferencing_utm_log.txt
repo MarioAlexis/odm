@@ -1,6 +1,0 @@
-imagesPath was set to: /home/ubuntu/Documents/my_test/images/
-imageListFile was set to: /home/ubuntu/Documents/my_test/opensfm/list_r000.out
-outputCoordFile was set to: /home/ubuntu/Documents/my_test/odm_georeferencing/coords.txt
-logFile_ was set to: /home/ubuntu/Documents/my_test/odm_georeferencing/odm_georeferencing_utm_log.txt
-Error in OdmExtractUtm:
-No valid GPS position found
