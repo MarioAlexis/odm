@@ -1,12 +1,12 @@
 #/bin/bash
 
-file=config08.txt
-zipfile=config_08.zip
+file=config06.txt
+zipfile=config_06.zip
 bench=benchmark.txt
 path=$1
 echo -e "/****************************" > $file
 echo -e "/*" >> $file
-echo -e "/*       Running Config -- 08 -- " >> $file
+echo -e "/*       Running Config -- 06 -- " >> $file
 echo -e "/*" >> $file
 echo -e "/****************************" >> $file
 echo -e " " >> $file
@@ -21,7 +21,7 @@ do
 		cat $path$bench >> $file
 		echo -e " " >> $file
 		sleep 3
-		zip $zipfile $file $pathodm_texturing/*.*
+		zip $zipfile $file ($path)odm_texturing/*.*
 		sleep 1
 		mv $zipfile /home/ubuntu/
 	else
